@@ -28,7 +28,7 @@ autoloader:
 ```
 "autoload": {
     "psr-4": {
-        "EasyFlashMessage//": "path/to/src/EasyFlashMessage/EasyFlashMessage/src"
+        "EasyFlashMessage//": "path/to/EasyFlashMessage/src"
     }
 }
 ```
